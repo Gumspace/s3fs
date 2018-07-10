@@ -34,8 +34,8 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "aws-sdk": "~2.6.9",
-    "bluebird": "~3.4.6",
+    "aws-sdk": "^2.272.1",
+    "bluebird": "^3.5.1",
     "extend": "~3.x"
   },
   "devDependencies": {
@@ -47,8 +47,8 @@
     "istanbul": "~0.4.5",
     "jscs": "~3.0.7",
     "jsinspect": "~0.x",
-    "mocha": "~3.1.2",
-    "nsp": "~2.6.2",
+    "mocha": "^5.2.0",
+    "nsp": "^3.2.1",
     "through2": "~2.x"
   },
   "scripts": {
